@@ -34,8 +34,8 @@ is:
       name:
         - "#{first_name} #{first_name} #{last_name}"
         - "#{first_name} #{last_name}"
-        - "#{first_name_femail} #{first_name_femail} #{last_name_femail}"
-        - "#{first_name_femail} #{last_name_femail}"
+        - "#{first_name_female} #{first_name_female} #{last_name_female}"
+        - "#{first_name_female} #{last_name_female}"
 
     phone_number:
       formats: ['#######', '###-####']
